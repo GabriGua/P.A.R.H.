@@ -1,4 +1,5 @@
 # P.A.R.H.
+**Paragraphs Analyzer Reading Helper**
 
 It's bookmarklet made for hacklet, a HackClub Project.
 
