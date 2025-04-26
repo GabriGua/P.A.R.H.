@@ -16,7 +16,7 @@ Didn't understand something? Selecting the paragraphs manually it's so annoying!
 ---
 ### How to use it
 
-1. Copy the minified code from #P.A.R.H.miny.js
+1. Copy the minified code from [miniP.A.R.H.js](miniP.A.R.H.js)
 2. Add a bookmark
 3. Add the minified code to the bookmark
 4. Open any the website you want! (ex. wikipedia)
